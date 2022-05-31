@@ -1,0 +1,22 @@
+nav{
+    background-color: darkseagreen;
+    height: 60px;
+}
+
+nav{
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+
+.menu{
+    margin-left: 10px;
+}
+
+.menu li{
+    float: left;
+    line-height: 60px;
+    margin-right: 40px;
+    font-size: 18px;
+    text-transform: uppercase;
+}
