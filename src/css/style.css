@@ -1,22 +1,47 @@
-nav{
-    background-color: darkseagreen;
-    height: 60px;
-}
-
-nav{
-    position: fixed;
-    z-index: 1;
-    width: 100%;
-}
-
 .menu{
-    margin-left: 10px;
+    font-size: 40px;
+    margin: 50px 0px 0px 50px;
+    border: 2px solid gray;
 }
 
-.menu li{
-    float: left;
-    line-height: 60px;
-    margin-right: 40px;
-    font-size: 18px;
-    text-transform: uppercase;
+.menu1:hover{
+    text-decoration: underline;
+}
+
+.menu2:hover{
+    text-decoration: underline;
+}
+
+.menu3:hover{
+    text-decoration: underline;
+}
+
+.menu4:hover{
+    text-decoration: underline;
+}
+
+.menu5:hover{
+    text-decoration: underline;
+}
+
+.menu6:hover{
+    text-decoration: underline;
+}
+
+.menu7:hover{
+    text-decoration: underline;
+}
+
+.menu8:hover{
+    text-decoration: underline;
+}
+
+.menu9:hover{
+    text-decoration: underline;
+}
+
+.topic{
+    font-size: 30px;
+    margin-top: 200px;
+    text-align: center;
 }
